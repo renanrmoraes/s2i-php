@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>F9C - OPENSHIFT LAB</title>
+	<title>OPENSHIFT LAB - F9C</title>
 	<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 	<style>
 	body {
